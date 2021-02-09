@@ -1,0 +1,1 @@
+SALT = b'$2b$12$bJ5s042mDF7M.rU4.5Sru.'
